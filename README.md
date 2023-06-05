@@ -25,20 +25,20 @@ I have used an extension(Platform IO) for VSCode to write the code. So please in
     For each module, connect the VCC pin to the breadboard's +3.3V rail.
     Connect the GND pin to the breadboard's GND rail.
     Connect the CE pin to the following digital pins on the first Arduino:
-    D9 for the transmitter module
-    D9 for the receiver module
+    D9 for the transmitter module.
+    D9 for the receiver module.
     Connect the CSN pin to the following digital pins on the first Arduino:
-    D10 for the transmitter module
-    D10 for the receiver module
+    D10 for the transmitter module.
+    D10 for the receiver module.
     Connect the SCK pin to the following digital pins on the first Arduino:
-    D13 for the transmitter module
-    D13 for the receiver module
+    D13 for the transmitter module.
+    D13 for the receiver module.
     Connect the MOSI pin to the following digital pins on the first Arduino:
-    D11 for the transmitter module
-    D11 for the receiver module
+    D11 for the transmitter module.
+    D11 for the receiver module.
     Connect the MISO pin to the following digital pins on the first Arduino:
-    D12 for the transmitter module
-    D12 for the receiver module
+    D12 for the transmitter module.
+    D12 for the receiver module.
     
 3. OLED displays:
 
