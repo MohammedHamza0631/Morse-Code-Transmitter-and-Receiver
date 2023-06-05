@@ -23,7 +23,9 @@ I have used an extension(Platform IO) for VSCode to write the code. So please in
 2. NRF24L01 wireless modules:
 
     For each module, connect the VCC pin to the breadboard's +3.3V rail.
+    
     Connect the GND pin to the breadboard's GND rail.
+    
     Connect the CE pin to the following digital pins on the first Arduino:
     D9 for the transmitter module.
     D9 for the receiver module.
