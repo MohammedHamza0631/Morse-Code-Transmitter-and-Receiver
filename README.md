@@ -1,3 +1,4 @@
+
 # Morse-Code-Transmitter-and-Receiver
 
 This project aims to create a Morse Code Transmitter and Receiver using the following equipments:
@@ -11,6 +12,10 @@ This project aims to create a Morse Code Transmitter and Receiver using the foll
 8. Buzzer
 
 I have used an extension(Platform IO) for VSCode to write the code. So please install the necessary tools before making this project.
+
+# Demo
+
+https://github.com/MohammedHamza0631/Morse-Code-Transmitter-and-Receiver/assets/91896151/d16d4b85-0199-4b0c-8b0d-ce6466995c0b
 
 # Circuit Description
 
